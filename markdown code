@@ -1,0 +1,117 @@
+---
+output:
+  html_document:
+    theme: darkly
+---
+
+### Chad Allison (he/him)
+
+508 S Merritt Mill Rd, Chapel Hill, NC 27516 | chadrallison@outlook.com | 304-546-6493 | [LinkedIn](https://www.linkedin.com/in/chad-allison-8808a31a0/){target="_blank"}
+
+___
+
+### **Education**
+
+**University of North Carolina at Chapel Hill**: Graduating May 2022
+
+- Bachelor of Science in Statistics and Analytics, Data Science and American Studies minors
+- GPA: 3.864
+- Honors: Dean's List all eligible semesters
+
+___
+
+### **Experience**
+
+##### **Fleet Feet**
+
+**Digital Analyst Intern**: May 2021 - August 2021
+
+- Collected, organized, and joined data from various sources
+- Utilized Google's CausalImpact R package to evaluate marketing campaigns and advertising initiatives
+- Collaborated with digital marketing teams to inform efficient advertising expenditure
+
+___
+
+##### **UNC Baseball**
+
+**Data Analyst**: December 2020 - Present
+
+- Deliver analyses to coaches and players to improve team performance and prepare for opponents
+- Utilize programming skills in R to explore data and extract useful information
+- Assist in maintaining team RShiny websites
+- [Example project](https://rpubs.com/chadallison/chasing){target="_blank"}
+
+___
+
+##### **UNC Club Golf**
+
+**Treasurer**: August 2018 - Present
+
+- Determining club budget per semester and required club dues per member
+- Collecting dues from members and managing financial accounts
+- Organizing financial and personal information for members
+
+___
+
+##### **Bluebonnet Data**
+
+**Data Fellow**: August 2021 - October 2021
+
+- Volunteered with North Carolina Association of Educators (NCAE)
+- Helped automate data collection for NCAE
+- Addressed issues in data collection and formatting to make it more informative for NCAE
+
+___
+
+##### **Alcohol Consumption v. Academic Performance**
+
+**Data Science School Project**: November 2020
+
+- Used real data to examine the relationship between alcohol consumption and academic performance
+- Statistically determined factors that potentially lead to greater alcohol consumption, worse academic performance
+
+___
+
+##### **NC State Datathon**
+
+March 2021
+
+- Received a random data set (Raleigh NIBRS Police Data) and spent two days producing an analysis
+- Explored most common crimes, along with determining when and where they are most likely to occur
+- Presented potential solutions to aid in controlling crimes and preventing repeat offenders
+
+___
+
+##### **Bentwinds Golf and Country Club - Fuquay Varina, NC**
+
+**Pro Shop Assistant**: June 2019 - January 2020
+
+- Communicated with members regarding tee times, member payments, club events
+- Collected and organized data such as golf scores, names of members and guests for events, golf shop transactions
+
+___
+
+##### **Christ the King Church Plant - Raleigh, NC**
+
+**School Project**: Spring 2018
+
+- Analyzed U.S. census data and demographic information to find the most effective location for the church's goals
+- Utilized statistical analyses to better understand the distributions of citizens in multiple cities
+
+___
+
+### **Skills**
+
+- Languages: R (most experienced), Python (least experience), TypeScript (less experience) - Data cleaning & visualization, predictive modeling, data joining
+- Experienced in Microsoft Excel, Word, PowerPoint; RStudio, RMarkdown; Google Analytics
+- Exceptional communicator, eagerness to learn and collaborate
+- Emphasis on writing clean, understandable, and reproducible code
+
+___
+
+
+
+
+
+
+
